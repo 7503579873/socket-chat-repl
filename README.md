@@ -9,7 +9,8 @@ Chat application (single/group) using node.js and socket.io
 $ git clone https://github.com/7503579873/socket-chat-repl.git
 $ cd socket-chat-repl
 $ npm install
-$ npm start
+$ node chat-node.js    - terminal 1
+$ node chat-client.js  - terminal 2
 ```
 
 And point your browser to `http://localhost:3000`. Optionally, specify
